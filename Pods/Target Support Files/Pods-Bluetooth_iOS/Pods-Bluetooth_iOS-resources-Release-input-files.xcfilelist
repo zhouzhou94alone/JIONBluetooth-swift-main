@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Bluetooth_iOS/Pods-Bluetooth_iOS-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/Appirater/Appirater.bundle
+${PODS_ROOT}/XCGLogger/.swift-version
